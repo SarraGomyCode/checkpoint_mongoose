@@ -1,10 +1,10 @@
 import { Switch, Route } from "react-router";
 
 import NavBar from "./Component/NavBar";
-import { Add } from "./Pages/Add";
-import { Home } from "./Pages/Home";
-import { ContactList } from "./Pages/ContactList";
-import { Errors } from "./Pages/Errors";
+import Add from "./Pages/Add";
+import Home from "./Pages/Home";
+import ContactList from "./Pages/ContactList";
+import Errors from "./Pages/Errors";
 
 import "./App.css";
 
